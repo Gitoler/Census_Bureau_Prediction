@@ -1,0 +1,14 @@
+bayesian-optimization
+pandas
+fastapi
+flake8
+gunicorn
+httpx
+matplotlib
+numpy
+pytest
+scikit-learn
+scipy
+seaborn
+uvicorn
+xgboost
